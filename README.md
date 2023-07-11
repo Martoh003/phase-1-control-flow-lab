@@ -1,6 +1,6 @@
 # Review: Control Flow Lab
 
-## Learning Goals
+## Learning Goals 
 
 * Practice writing `if...else if...else` statements.
 * Practice working with the ternary operator.
